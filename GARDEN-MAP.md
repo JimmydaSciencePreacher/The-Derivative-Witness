@@ -14,11 +14,9 @@ The map should grow as the garden grows. Add each new investigation or substanti
 - [FW-001 — Before Christianity and the Earliest Christian Writers](investigations/FW-001-before-christianity.md): traces pre-Christian debates about choice and responsibility into the earliest Christian writings, distinguishing moral exhortation, responsibility, explicit freedom arguments, terminology, and developed doctrine. Historical findings are recorded; biblical and GUA-W evaluation remain open.
 - [PHILO-001 — Philo of Alexandria on the Human Will, Divine Sovereignty, and Responsibility](investigations/PHILO-001-philo-on-the-human-will.md): examines Philo's primary writings on divine foreknowledge and providence, received human freedom, deliberate choice, intention, and accountability. The historical account is documented independently; biblical and GUA-W evaluation remain open.
 
-As records are added, list them here with a short description of the question explored and links to related records. Do not invent connections or force a subject into a category.
-
-
-
 - [LOGOS-001 — Greek Logos, John's Word, and Justin Martyr](investigations/LOGOS-001-greek-logos-and-the-christian-word.md): examines the pre-Christian range of Greek *logos*, Jewish scriptural and Hellenistic background, John's claim in John 1, and Justin's account of Christ as the whole Logos. Historical comparison begun; theological and GUA-W evaluation remain open.
+
+## Emerging connections
 
 ### PHILO-001 — Philo and the later historical inquiry into choice
 
@@ -26,7 +24,7 @@ As records are added, list them here with a short description of the question ex
 
 PHILO-001 examines Philo's own first-century Jewish writings on divine sovereignty, received human capacity, voluntary action, and responsibility. FW-001 examines later writers, including Justin Martyr, in its broader historical trace. Philo therefore provides relevant earlier historical context for that inquiry. This link does not establish direct influence, agreement, or equivalence, and no comparison with Justin is made in PHILO-001.
 
-## Emerging connections
+
 
 ### FW-001 — Historical theology and the Genesis foundation
 
