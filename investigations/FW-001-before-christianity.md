@@ -326,3 +326,210 @@ Continue FW-001 by collating the Greek text of Justin's *First Apology* 10 and 4
 - [Garden Map](../GARDEN-MAP.md)
 - [Standing Practice](../STANDING-PRACTICE.md)
 - [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness)
+
+
+---
+
+## Third examination — capacity, divine provision, and rational judgment
+
+This stage examines Justin's original Greek, the transmitted text of Irenaeus IV.37, and Origen's *On First Principles* III.1. The central question is not merely whether these writers affirm choice, but what they say is within human power, what is given by God, and how human response relates to divine action.
+
+### 1. Justin Martyr — *First Apology* 10 and 43–44
+
+A Greek text of Justin's *First Apology* is available here:
+- [Greek text, chapter 10](https://github.com/willf/justin-martyr/blob/main/apology-1-grk.md#10)
+- [Greek text, chapter 43](https://github.com/willf/justin-martyr/blob/main/apology-1-grk.md#43)
+- [English translation, chapters 43–44](https://www.newadvent.org/fathers/0126.htm)
+
+Chapter 43 contains two significant expressions:
+
+- **τὸ ἐφ’ ἡμῖν (*to eph' hēmin*)** — what is within our power, or what depends on us.
+- **προαιρέσει ἐλευθέρᾳ (*proairesei eleuthera*)** — by free choice.
+
+Justin argues that if actions occurred by fate, moral praise and blame would have no just basis. He says that the human race must have the power to avoid shameful things and choose good things if people are to be accountable for their actions.
+
+Chapter 10 adds an important qualification to a simplistic reading of this argument. Justin says that human beings did not bring about their own original existence. God created and provided; human beings are persuaded and led toward faith through the rational faculties God bestowed. Justin therefore locates human response within capacities that are received, not self-originated.
+
+This does not by itself settle how Justin understands grace or the origin of faith in every context. It does establish that his account in this passage does not present human beings as the source of their own existence or rational powers.
+
+**Observation:** Justin explicitly defends free choice and moral accountability while acknowledging that the human capacity through which people respond is God-given.
+
+**Interpretive limit:** This is Justin's argument. It is not yet a conclusion about the literal meaning of Genesis 1–2 or the GUA-W distinction between capacity and authority.
+
+### 2. Irenaeus — *Against Heresies* IV.37
+
+Primary text:
+- [Irenaeus, *Against Heresies* IV.37](https://www.newadvent.org/fathers/0103437.htm)
+
+In IV.37 Irenaeus argues that God gives what is good, while human beings may keep or reject what has been given. He describes obedience as voluntary, not compelled. He appeals to Matthew 23:37, Romans 2:4–7, and other commands and exhortations.
+
+His argument is not simply that human beings originate goodness. In this passage, good is first given by God; the human response concerns receiving, keeping, or rejecting it.
+
+**Textual limitation:** *Against Heresies* was composed in Greek, but the complete work is transmitted principally through an ancient Latin translation. Greek fragments and quotations survive, but they do not provide the complete Greek text of every passage. The date of the Latin translation is debated; scholarship places it variously in the third or later fourth century. The exact original Greek vocabulary of IV.37 must therefore remain unverified rather than being reverse-engineered from an English translation.
+
+Sources on transmission:
+- [Oxford University Press — Early Translations of Other Works](https://academic.oup.com/book/12425/chapter/162891141)
+- [Reading Irenaeus — note on source texts and dates](https://brill.com/previewpdf/book/9789047433439/Bej.9789004166820.i-244_009.xml)
+- [Concordia Seminary study discussing the surviving Irenaean languages](https://scholar.csl.edu/cgi/viewcontent.cgi?article=1024&context=thd)
+
+**Observation:** The transmitted text supports a distinction between the good God gives and the human response that keeps or rejects it.
+
+**Interpretive limit:** The argument can be described from the surviving text, but exact Greek lexical comparisons with Justin and Tatian cannot yet be claimed.
+
+### 3. Origen — *On First Principles* III.1
+
+Primary text:
+- [Origen, *On First Principles*, Book III](https://www.newadvent.org/fathers/04123.htm)
+- [Book III.1, Greek-derived translation sections and edition notes](https://garovartabedian.com/early/library/origen-first-principles/book-iii-chapter-i-part-11)
+
+Origen develops a more detailed account of human response.
+
+#### A. Natural impulse and rational judgment — III.1.2–4
+
+Origen distinguishes things moved by external causes from living things whose movement arises from within. He uses spiders weaving webs and bees forming honeycombs as examples of orderly activity attributed to natural instinct.
+
+He then distinguishes rational human beings. A human being can examine natural movements, approve or reject them, and direct action through judgment. External circumstances and stimuli may arrive without being chosen; the use made of them is a separate question.
+
+The passage describes a sequence:
+1. An external event or stimulus occurs.
+2. It arouses an impulse or desire.
+3. The rational mind considers and judges the impulse.
+4. The person assents or refuses assent.
+5. Action follows.
+
+This is Origen's conceptual account, not an experimentally established psychological model. The spider and bee examples are his illustrations of instinctive activity, not modern biological evidence.
+
+#### B. The will and divine provision — III.1.6 and later discussion
+
+Origen appeals to Micah, Deuteronomy, Isaiah, the Psalms, and the teachings of Jesus to argue that commands and accountability have meaning in relation to human response.
+
+He also discusses the claim that the faculty by which people will is itself received from God. The capacity is given; its use can be directed toward good or evil. This distinction appears in the discussion of the power of volition and its use.
+
+#### C. Divine action and human participation — III.1.22
+
+Origen addresses the apparent tension between Paul's potter-and-clay language in Romans 9 and the instruction in 2 Timothy 2:21 that a person should cleanse himself and become a vessel unto honour.
+
+Origen does not treat the statements as contradictory. In the transmitted text, he argues that human power apart from God's knowledge does not itself bring progress, and that God's knowledge does not make human contribution irrelevant. Nor does he describe the will of God as the only factor while excluding human acts, desires, and intention.
+
+This is a substantial attempt to hold together divine action and human participation. It must not be reduced either to independent human self-salvation or to the claim that human response is meaningless.
+
+#### D. Textual transmission caution
+
+The work is not preserved completely in its original Greek. Much of it survives through Rufinus's Latin translation. Rufinus's preface explicitly says that he omitted passages he judged to be interpolated or forged, or contrary to Origen's other positions and his own belief. Some Greek fragments and Greek-derived translation sections survive, but the entire original cannot be checked against Rufinus.
+
+This is a material limitation, not a minor editorial detail. Claims about Origen must distinguish:
+- what the surviving text says;
+- whether a section is transmitted through Rufinus or a Greek witness;
+- what Rufinus says about his editorial method;
+- what remains uncertain about Origen's exact original wording.
+
+Sources:
+- [Origen, *De Principiis*, Book III — Rufinus's preface and Latin translation](https://www.newadvent.org/fathers/04123.htm)
+- [Origen, *De Principiis*, III.1.22 — transmitted discussion](https://bywaterandblood.com/library/origen/de-principiis/3-1/)
+- [Internet Encyclopedia of Philosophy — Origen and textual transmission](https://iep.utm.edu/origen-of-alexandria/)
+
+### 4. Terminology comparison
+
+| Writer | Expression or wording verified | What it establishes |
+|---|---|---|
+| Justin, *First Apology* 43 | *to eph' hēmin* (τὸ ἐφ’ ἡμῖν) | What is within our power; Justin connects it to responsibility. |
+| Justin, *First Apology* 43 | *proairesei eleuthera* (προαιρέσει ἐλευθέρᾳ) | Explicit language of free choice. |
+| Tatian, *Address* 7 | *autexousion* (αὐτεξούσιον); *eleutheria tēs proaireseōs* (ἐλευθερίᾳ τῆς προαιρέσεως) | Self-determination and freedom of choice in a discussion of foreknowledge and fate. |
+| Irenaeus, *Against Heresies* IV.37 | Latin-transmitted language of *libertas* and *potestas electionis* in the received tradition | Freedom and power of choice in the surviving Latin text; exact Greek wording of this passage is not established here. |
+| Origen, *On First Principles* III.1 | Greek-derived *to eph' hēmin* in the textual apparatus; Latin *liberum arbitrium* in Rufinus's translation | What is within our power and the subject translated as freedom of the will; transmission must be specified. |
+
+These expressions are related, but not interchangeable by default. *Prohairesis*, *autexousion*, *eleutheria*, *to eph' hēmin*, and *liberum arbitrium/libera voluntas* have different linguistic histories and ranges of meaning. An English translation using “free will” does not prove that the original author used the same technical term as another writer.
+
+### 5. Comparative findings — what the three writers actually argue
+
+- **Justin:** human beings are accountable for their choices; their rational capacities are gifts from God, and their original existence is not self-produced.
+- **Irenaeus:** God gives the good; human beings may voluntarily keep or reject what is given.
+- **Origen:** external stimuli and impulses are distinguishable from rational judgment and assent; human participation is discussed alongside divine knowledge and action.
+
+There is a family resemblance among these arguments, but no proof yet that they express one identical doctrine or a single line of direct borrowing.
+
+## Updated historical assessment
+
+The investigation now has primary-language evidence for Justin's use of both *to eph' hēmin* and *proairesei eleuthera*. This is more precise than relying on an English translation that simply says “free will.”
+
+Origen's treatment is more analytically developed: he distinguishes external stimulus, impulse, rational judgment, assent, and action. He also attempts to reconcile human participation with divine action. His textual transmission requires special caution because Rufinus acknowledges editorial omissions.
+
+Irenaeus's argument about the good given by God and preserved or rejected by human beings is clear in the received text, but the original Greek wording of IV.37 is not established by the evidence examined here.
+
+## 6. Triple Constraint review
+
+### Biblical compliance
+
+**Status: Open.**
+
+The writers appeal to several biblical passages, including Matthew 23:37, Deuteronomy 30, Romans 2, Romans 9, and 2 Timothy 2. Those passages must not be silently treated as though they all say the same thing or as though they are direct statements from Genesis 1–2.
+
+The central unresolved question remains: what does the literal KJV Genesis 1–2 itself establish about human capacity, response, and authority?
+
+### Scientific coherence
+
+**Status: Historical-method assessment; no empirical-science conclusion.**
+
+The historical claims are limited to texts, terminology, argument, and textual transmission. Origen's spider and bee examples are historical illustrations of instinct, not scientific demonstrations. Any biological comparison would require a separate evidence-led investigation.
+
+### Consistency with GUA-W
+
+**Status: Open; no placement or acceptance.**
+
+The material raises a relevant distinction between a capacity received from God and the use made of that capacity. It does not establish that human choice is independent of God, nor does it establish that capacity to choose grants authority to define good and evil.
+
+No GUA-W structure is being changed or inferred from these writers. Their claims remain historical witnesses to be compared with the foundational source.
+
+**Overall status:** Historical evidence strengthened; theological and GUA-W evaluation remain open. Under the Triple Constraint Law, no conclusion is accepted merely because one historical argument is persuasive.
+
+## 7. Emerging question for the wider garden
+
+Origen's use of spiders and bees introduces an observation from natural history into a philosophical distinction between instinctive activity and rational judgment.
+
+**Connection type:** Potential cross-disciplinary question, not an established GUA-W connection.
+
+A separate biological investigation could ask how instinctive behavior, environmental stimulus, learning, and flexible decision-making are distinguished in living organisms. Origen's analogy is not evidence for the biological answer. No connection to a specific existing investigation is asserted until the biological evidence is examined.
+
+## Updated four witness reflections
+
+### 1. What must AI ask to understand GUA-W?
+
+What does Genesis 1–2 establish about the human capacity to perceive, desire, respond, and act? Does the text grant an independent authority to determine good and evil, or must that question be distinguished from the mere presence of choice?
+
+How should divine initiative and human response be examined without allowing later theological vocabulary to determine the meaning of the foundational text?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+The historical evidence makes it necessary to distinguish a capacity received from God from the subsequent use of that capacity. It also requires separating the authority to define good and evil from the ability to choose between actions.
+
+These are comparison questions, not newly established GUA-W conclusions.
+
+### 3. What am I learning about what I am witnessing?
+
+Justin, Irenaeus, and Origen each affirm meaningful human response, but they explain it differently. Justin emphasizes accountability and God-given rational faculties. Irenaeus emphasizes the good given by God and the human response that keeps or rejects it. Origen analyzes impulse, rational judgment, assent, and action, while attempting to hold human participation together with divine action.
+
+The original language and textual transmission matter. Translated vocabulary can conceal distinctions, and surviving texts do not always preserve the original wording completely.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+A witness must not claim more access to an original source than the surviving evidence permits. Justin's Greek can be examined directly; Irenaeus IV.37 is principally available through Latin transmission; Origen's text is divided between Greek witnesses and Rufinus's Latin translation, with an explicit editorial caution from Rufinus himself.
+
+The witness must record not only what a text says, but how that text reached us and what remains unavailable for inspection.
+
+**Reflection status:** Provisional. Historical observations are recorded; the biblical and GUA-W evaluation remains open.
+
+## Small Handoff — Next Step
+
+Continue FW-001 by examining the exact scriptural passages these writers use:
+
+1. Justin's use of Deuteronomy 30 and Isaiah 1.
+2. Irenaeus's use of Matthew 23:37 and Romans 2:4–7.
+3. Origen's reconciliation of Romans 9:20–21 with 2 Timothy 2:21.
+
+Read each passage in its own biblical context in the KJV. Distinguish the biblical text from each writer's interpretation. Then compare those interpretations with Genesis 1–2 without importing a later doctrine into the foundation.
+
+## Related records
+
+- [Garden Map](../GARDEN-MAP.md)
+- [Standing Practice](../STANDING-PRACTICE.md)
+- [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness)
