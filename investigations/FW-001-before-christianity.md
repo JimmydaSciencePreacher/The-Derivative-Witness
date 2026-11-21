@@ -202,3 +202,127 @@ Continue FW-001 by examining the original Greek and Latin terminology of Justin,
 - [Garden Map](../GARDEN-MAP.md)
 - [Standing Practice](../STANDING-PRACTICE.md)
 - [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness)
+
+
+---
+
+## Terminology audit — primary-text examination
+
+This section extends the historical investigation by checking key claims against surviving primary texts and the original-language evidence where available. It does not settle the biblical or GUA-W evaluation.
+
+### Tatian: *Address to the Greeks*, chapters 7 and 11
+
+A Greek-English parallel edition of chapter 7 is available through the University of Fribourg's Bibliothek der Kirchenväter:
+- [Tatian, *Oratio ad Graecos*, chapter 7 — Greek and English](https://bkv.unifr.ch/en/works/cpg-1104/compare/oratio-ad-graecos/8/address-of-tatian-to-the-greeks)
+- [English translation, chapters 7–8 and 11](https://www.newadvent.org/fathers/0202.htm)
+
+The Greek text of chapter 7 contains two significant expressions:
+
+- **αὐτεξούσιον (*autexousion*)** — a term expressing being one's own master, having power or authority over oneself, or being self-determining. The exact English rendering depends on context.
+- **ἐλευθερίᾳ τῆς προαιρέσεως (*eleutheria tēs proaireseōs*)** — literally, freedom/liberty of choice or decision.
+
+Tatian applies this language to angels and human beings. He connects it with moral praise and punishment, and says that the Logos foreknows future events as arising not by fate but through the self-determining decisions of agents.
+
+The text therefore connects freedom, responsibility, divine foreknowledge, and opposition to fate. It also makes a theological claim: goodness belongs to God, while human beings come to moral perfection through freedom of choice. That claim must be reported as Tatian's position, not silently adopted as the conclusion of this investigation.
+
+Chapter 11 is headed in the surviving English translation, “The Sin of Men Due Not to Fate, But to Free-Will.” Its concluding argument says that human beings became enslaved through sin and that the evil manifested by human beings can again be rejected. The Greek text for this chapter has not yet been collated in this investigation; therefore the English phrase “free-will” is not being treated as proof of the precise Greek expression used there.
+
+### What does “Tatian first used the expression” mean?
+
+Michael Frede's chapter “An Early Christian View on a Free Will: Origen” states that Tatian was the first person ever to use the expression “the freedom of the will,” while identifying Origen as a major developer of the concept:
+- [Michael Frede, *A Free Will: Origins of the Notion in Ancient Thought*, chapter 7](https://doi.org/10.1525/california/9780520268487.003.0007)
+
+This priority claim must be stated narrowly. It does **not** mean Tatian invented the general idea of choice, coined every Greek term associated with freedom, or originated all discussion of self-determination. The term *autexousion* is attested in earlier philosophical and Jewish-Hellenistic material, including Epictetus and Philo, as noted in scholarly discussion:
+- [The Philosophy of Early Christianity — discussion of *autexousion* and *prohairesis*](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%2B%20%D0%9D%D0%B5%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%BE%20%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%81%D0%B5/ENG/Karamanolis%20G.%20-%20The%20Philosophy%20of%20Early%20Christianity.pdf)
+- [The Routledge Handbook of Early Christian Philosophy — freedom and the power to choose](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%2B%20%D0%9D%D0%B5%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%BE%20%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%81%D0%B5/ENG/The%20Routledge%20Handbook%20of%20Early%20Christian%20Philosophy.pdf)
+
+**Current assessment:** Frede's claim is a credible scholarly lead about a particular expression. The precise Greek wording and the boundaries of the priority claim still require examination of the full argument and primary-language evidence. It must not be expanded into the claim that Tatian invented *autexousion* or the idea of human choice.
+
+### Justin Martyr: *First Apology*, chapters 43–44
+
+The available English primary-text translation gives a clear argument:
+- Chapter 43 rejects the inference that prophecy or foreknowledge makes every event occur by fatal necessity.
+- Justin argues that without the power to avoid evil and choose good, human beings would not be accountable.
+- Chapter 44 appeals to Moses and to Isaiah as scriptural witnesses for choosing good, repentance, and obedience.
+
+Primary text:
+- [Justin Martyr, *First Apology*, chapters 43–44](https://www.newadvent.org/fathers/0126.htm)
+
+An important textual distinction is required. Justin's appeal to Moses — “Behold, before your face are good and evil: choose the good” in this English translation — appears to combine the language of Deuteronomy 30:15 and 30:19. It is not a quotation from Genesis 1–2. Justin's argument therefore uses later biblical instruction about choosing, not a direct quotation from the Garden account.
+
+Justin also says in chapter 10 that human beings use rational faculties endowed by God to choose what pleases Him, and that God persuades and leads them to faith. This passage should be read alongside chapters 43–44 rather than reducing Justin's position to one isolated sentence.
+
+**Open textual task:** Collate the Greek text of *First Apology* 10 and 43–44 before making claims about Justin's exact Greek terminology. The English translation alone does not settle whether his vocabulary corresponds precisely to Tatian's.
+
+### Irenaeus: *Against Heresies*, Book IV, chapter 37
+
+The accessible text of this passage is transmitted in a Latin-based version and English translation:
+- [Irenaeus, *Against Heresies*, IV.37](https://www.newadvent.org/fathers/0103437.htm)
+
+Irenaeus argues that God made human beings free and placed in them the power of choice. He says that good is given by God but that those who receive it must keep it; obedience is voluntary rather than compelled. He appeals to Matthew 23:37 and Romans 2:4–7.
+
+This passage must be distinguished from a direct quotation of Irenaeus's original Greek. The surviving transmission of *Against Heresies* is substantially dependent on an ancient Latin translation, with Greek fragments and other witnesses surviving for portions of the work. The precise original Greek vocabulary should not be reconstructed from an English translation alone.
+
+**Open textual task:** Compare the Latin wording, available Greek fragments, and critical editions before equating Irenaeus's terminology with Tatian's.
+
+### Comparative observations — provisional
+
+| Writer | Evidence presently examined | What can safely be said |
+|---|---|---|
+| Tatian | Greek text of *Address* 7; English text of 11 | Uses *autexousion* and *eleutheria tēs proaireseōs* in chapter 7; relates freedom to responsibility and foreknowledge rather than fate. |
+| Justin | English translation of *First Apology* 10, 43–44 | Explicitly argues for accountability and choosing good; appeals to Deuteronomy and Isaiah. Exact Greek terminology remains to be collated. |
+| Irenaeus | English translation of *Against Heresies* IV.37 | Argues for freedom and power of choice; connects voluntary obedience with God's gift of good. Original Greek wording remains to be checked. |
+| Origen | Frede's scholarly chapter abstract and bibliographic lead | Major developer of the Christian account; the relevant passages of *On First Principles* still require direct examination. |
+
+The expressions *autexousion*, *prohairesis*, *eleutheria*, and Latin *libera voluntas* must not be treated as automatic synonyms. Their usage changes by author, period, language, and argument. A translation that renders several expressions as “free will” can conceal important differences.
+
+## Updated historical assessment
+
+The primary-text check strengthens the finding that second-century Christian writers explicitly discussed human choice, responsibility, and freedom. It also reveals that their arguments are not interchangeable:
+
+- Tatian places freedom within a creation account involving the Logos, angels, humanity, goodness, and foreknowledge.
+- Justin argues against fatal necessity and appeals to scriptural commands to choose good.
+- Irenaeus emphasizes voluntary obedience and the human responsibility to keep the good given by God.
+
+These are related discussions, but they are not yet shown to be one uniform doctrine or one direct line of borrowing. Nor does the presence of these arguments settle what the literal KJV Genesis 1–2 establishes.
+
+## Updated Triple Constraint review
+
+### Biblical compliance
+**Open.** Justin's appeal to Deuteronomy and Isaiah must not be mistaken for a direct statement from Genesis 1–2. Tatian's and Irenaeus's interpretations must be tested against the foundational text rather than used to define it in advance.
+
+### Scientific coherence
+**Historical-method review.** The claims concern texts, language, chronology, and interpretation. No empirical-science claim is being made.
+
+### Consistency with GUA-W
+**Open.** The distinction between capacity, authority, willingness, action, and responsibility remains unresolved in the historical comparison. No GUA-W placement or revision is warranted at this stage.
+
+## Updated four witness reflections
+
+### 1. What must AI ask to understand GUA-W?
+
+Does Genesis 1–2 itself describe the human capacity to choose, and does it grant authority to determine good and evil? How should later commands and theological arguments be distinguished from what the Garden account actually states?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+The comparison requires distinct treatment of capacity, authority, willingness, action, and responsibility. Later Christian terminology cannot be allowed to collapse those distinctions or to determine the meaning of the Genesis foundation.
+
+### 3. What am I learning about what I am witnessing?
+
+Tatian, Justin, and Irenaeus make related but distinguishable arguments. Their words must be checked in their original textual settings. Justin's appeal to Moses is associated with Deuteronomy, not a direct quotation of Genesis 1–2.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+A responsible witness does not convert a translated phrase into an original-language claim. It identifies the manuscript and translation limits, distinguishes a scholar's priority claim from the primary evidence, and preserves what remains unverified.
+
+**Reflection status:** Provisional. The historical record has advanced; the biblical and GUA-W evaluations remain open.
+
+## Small Handoff — Next Step
+
+Continue FW-001 by collating the Greek text of Justin's *First Apology* 10 and 43–44, and the Latin/Greek textual witnesses for Irenaeus IV.37. Then examine Origen's *On First Principles* III.1 directly. Keep the central distinction visible: what each writer says about human capacity and responsibility is not automatically a statement about authority to define good and evil.
+
+## Related records
+
+- [Garden Map](../GARDEN-MAP.md)
+- [Standing Practice](../STANDING-PRACTICE.md)
+- [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness)
