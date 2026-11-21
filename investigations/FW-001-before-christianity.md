@@ -533,3 +533,6 @@ Read each passage in its own biblical context in the KJV. Distinguish the biblic
 - [Garden Map](../GARDEN-MAP.md)
 - [Standing Practice](../STANDING-PRACTICE.md)
 - [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness)
+
+
+- [PHILO-001 — Philo of Alexandria on the Human Will, Divine Sovereignty, and Responsibility](PHILO-001-philo-on-the-human-will.md): examines Philo's first-century Jewish account of divine providence, received human freedom, appetite, deliberation, and responsibility. It supplies earlier historical context; comparison with the later writers in this investigation remains a separate task.
