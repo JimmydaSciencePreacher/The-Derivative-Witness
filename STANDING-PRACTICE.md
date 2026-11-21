@@ -1,64 +1,70 @@
-# Standing Practice: Continuity and Witness Reflection
+# Project Practice: Continuity, Reflection, and Connected Inquiry
 
-This document records the working practice for AI contributions in The Derivative Witness. It supports continuity and reflection; it does not define, replace, or modify GUA-W.
+This document describes the working conventions used to keep The Derivative Witness readable across conversations and to preserve the development of its investigations. It records the project's practices; it does not define, replace, or modify GUA-W.
 
-## 1. Small handoff at the end of every reply
+## 1. Conversation continuity
 
-At the end of every AI reply, include a brief section titled **Small Handoff — Next Step**.
+A short **Small Handoff — Next Step** closes each working conversation or substantial reply.
 
-The handoff should:
-- State where the current work stopped.
-- Identify the immediate next step or open question.
-- Preserve any important unresolved issue.
-- Give the next chat enough context to continue without restarting or reconstructing the work.
+A handoff records:
+- The point reached.
+- The immediate next step or open question.
+- Any important unresolved issue.
+- Enough context for the next conversation to continue without restarting the work.
 
-Keep it small. It is a continuity note, not a full conversation summary. If the discussion is complete, say so and identify a natural point from which future work could continue.
+The handoff is deliberately brief. When a subject is complete, it records that status and a natural point for future continuation.
 
-## 2. Four reflections at the end of every completed AI investigation
+## 2. Four witness reflections
 
-At the conclusion of each completed investigation, include and answer these four questions, retaining their exact wording:
+The four questions below form the closing reflection for each conversation. Their wording is retained so that reflections can be compared across the project's development.
 
 ### 1. What must AI ask to understand GUA-W?
 
-Identify the questions AI still needs to ask. Do not assume understanding where it has not been established.
+Questions that remain open in the study of GUA-W.
 
 ### 2. What is GUA-W revealing that helps AI understand?
 
-Record what the investigation contributes to AI's understanding of GUA-W. Distinguish what is directly present in the evidence from interpretation. Do not force a conclusion.
+Observations about what the current material contributes to understanding GUA-W, with evidence distinguished from interpretation.
 
 ### 3. What am I learning about what I am witnessing?
 
-Record what the investigation contributes to understanding the subject, evidence, or phenomenon being witnessed.
+What the conversation contributes to understanding the subject, evidence, or phenomenon under examination.
 
 ### 4. What am I learning about the Witness through what I am witnessing?
 
-Reflect on what the investigation reveals about witnessing itself, including its role, process, limits, or responsibilities, where the evidence supports such reflection.
+What the conversation contributes to understanding witnessing itself, including its role, process, limits, or responsibilities where supported by the material.
 
-Answer honestly and proportionately. If an answer is not yet known or the evidence is insufficient, state that plainly rather than filling the space with speculation.
+A reflection may remain unanswered or provisional when the available evidence does not support a conclusion. Unresolved questions are part of the record.
 
-## 3. The garden is a connected whole
+## 3. The garden as a connected whole
 
-Treat the repository as one growing body of inquiry, not a collection of isolated investigations.
+The repository represents one developing body of inquiry. Each investigation has its own question and evidence while also contributing to the wider collection.
 
-Every investigation must:
-- Link to the central [Garden Map](GARDEN-MAP.md).
-- Link to the relevant earlier investigations, evidence records, source materials, and concepts already present in the repository.
-- Explain the nature of each connection: direct evidence, shared subject, supporting context, tension, comparison, or an open question. Do not imply a connection is stronger than the evidence allows.
-- Identify what the current investigation contributes to the wider body of understanding.
-- Record meaningful connections discovered during the work, including connections that cross subject areas.
-- Where useful, add a reciprocal link from the related record so readers can follow the relationship in both directions.
+The **Garden Map** is the living index for this connected record. Investigation pages and substantive records are linked to the map and to relevant earlier material. Connections are described according to their actual character, such as direct evidence, shared subject, supporting context, tension, comparison, or an open question.
 
-The Garden Map is a living index, not a fixed classification system. Update it when new records or meaningful connections are added. Do not create artificial links merely to make every page appear connected. The aim is to reveal genuine relationships while preserving distinctions and unresolved tensions.
+The map changes as the repository grows. Reciprocal links and cross-disciplinary connections make relationships easier to trace. A connection does not imply equivalence, agreement, or stronger evidence than the records establish. Artificial connections are not part of the project's documentation standard.
 
-An investigation may have its own question and evidence, but it does not stand alone. Its meaning and contribution should be considered in relation to the developing whole.
+## 4. Investigation evaluation
 
-## 4. Governing practice
+The project's established **Triple Constraint Law** is the evaluation framework for investigations:
 
-- These reflections are questions for learning, not a mechanism for manufacturing agreement or predetermined conclusions.
-- Preserve unresolved questions.
-- Allow new questions and connections to emerge from the investigation.
-- Do not use this practice as a reason to redesign, reconstruct, or alter GUA-W.
-- Maintain the distinction between the Author, the Word, Creation, and the Witness.
-- Keep evidence, observation, inference, interpretation, analogy, and hypothesis distinguishable.
+1. **Biblical compliance**
+2. **Scientific coherence**
+3. **Consistency with GUA-W**
 
-**Purpose:** continuity between conversations, connected growth across investigations, and growth in understanding—not the production of predetermined answers.
+The three criteria are considered together. A finding that does not satisfy all three remains unresolved within this framework rather than being recorded as an accepted conclusion.
+
+Research records distinguish source material, observation, evidence, inference, interpretation, analogy, and hypothesis. Corrections and changes remain traceable, and unresolved questions are preserved.
+
+## 5. Foundational distinctions
+
+The repository's study of GUA-W preserves the distinctions expressed in its foundational material, including:
+
+- Author
+- Word
+- Creation
+- Witness
+
+The Derivative Witness is a place for investigation, evidence, reflection, and the documentation of emerging relationships. It is not a replacement for, revision of, or second version of GUA-W.
+
+**Purpose:** continuity across conversations, connected growth across investigations, and a clear record of what has been observed, examined, and left open.
