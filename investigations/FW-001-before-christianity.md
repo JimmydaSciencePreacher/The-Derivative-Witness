@@ -585,7 +585,7 @@ Irenaeus quotes this material to argue that people receive good from God and are
 **Primary biblical texts:**
 - [Romans 9:14–24, KJV](https://www.biblegateway.com/passage/?search=Romans+9%3A14-24&version=KJV)
 - [2 Timothy 2:14–26, KJV](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A14-26&version=KJV)
-- [Origen, On First Principles III.1.21–22, textual presentation and notes](https://www.sophiascriptura.com/fathers/origen-de-principiis/3-1-15/)
+- [Origen, On First Principles III.1.21–22, textual presentation and notes](https://www.newadvent.org/fathers/04123.htm)
 
 **Romans 9:** Paul's argument concerns God's mercy, election, the hardening of Pharaoh, the Creator's authority, and the relation between the One who forms and the thing formed. The potter-and-clay language in verses 20–21 must be read with the surrounding argument, including verses 14–24. It cannot be reduced to a statement that human beings independently determine their final condition.
 
@@ -671,6 +671,168 @@ A witness must return to the source rather than relying only on another witness'
 ## Small Handoff — Next Step
 
 Continue FW-001 by moving forward to Augustine and examining his use of *liberum arbitrium* and *libera voluntas*. Trace what he receives from earlier writers, what he changes, and how his discussion of sin, grace, and the will develops. Keep Augustine's later formulations distinct from the earlier evidence and from the literal Genesis 1–2 foundation.
+
+## Related records
+
+- [Garden Map](../GARDEN-MAP.md)
+- [Standing Practice](../STANDING-PRACTICE.md)
+- [PHILO-001 — Philo of Alexandria on the Human Will](PHILO-001-philo-on-the-human-will.md)
+- [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness)
+
+
+---
+
+## Fifth examination — Augustine: free choice, divided willing, and grace
+
+This stage follows the recorded handoff into Augustine. It asks what he inherited from earlier Christian and philosophical discussions, what his own writings add, and how his account develops across his lifetime. Augustine must not be treated as though every work expresses one unchanged formulation.
+
+### 1. The early work — *De libero arbitrio* (*On the Free Choice of the Will*)
+
+**Primary and scholarly sources:**
+- [Augustine, *On the Free Choice of the Will*, full text](https://www.sophiascriptura.com/fathers/augustine-libero-arbitrio/read/)
+- [Augustine's own later review, *Retractions* I.9, in an English scholarly edition](https://student.uoh.edu.iq/admin/ebooks/57559-saint-augustine-bishop-of-hippo%2C-thomas-williams-%28translator%29-on-free-choice-of-the-will---hackett-pub-co-inc-%281993%29.pdf)
+- [Tomoki Ishikawa, “Revisiting ‘propria uoluntas et liberum arbitrium’ in Augustine's De Libero Arbitrio” (2024)](https://www.jstage.jst.go.jp/article/tetsugaku/8/1/8_36/_html/-char/en)
+
+Augustine later explains that he and Evodius began discussing the origin of evil while in Rome. Books II and III were completed later in Africa, after Augustine's ordination. He says the inquiry was directed against the Manichaean claim that evil came from an independent, co-eternal evil nature. The early work's central argument is that moral evil originates in the will's own misuse, not in God as Creator or in a second evil substance.
+
+In Book I, especially I.11.21, Augustine and Evodius conclude that the mind becomes enslaved to desire through its own will and free choice. The Latin expression is *propria voluntas et liberum arbitrium*. The passage concerns the mind's turning away from the unchangeable good toward lower, changeable goods. Augustine is arguing that this culpable turning cannot be assigned to God or to a rival eternal substance.
+
+Book II asks why God gave free choice if it can be misused. Augustine's answer is that right action would not be possible without it. Free choice is therefore treated as a good gift that can be used rightly or wrongly; its possibility of misuse does not make the gift itself evil.
+
+**What this establishes:** In this early anti-Manichaean argument, Augustine makes the will's own action central to the origin of moral evil and to human responsibility. He does not describe the will as an evil substance or as something forced by God to sin.
+
+**Limit:** This argument is not a complete account of the later Augustinian teaching on grace, original sin, or the fallen will. Augustine himself later says the early books did not set out to defend at length the grace by which God prepares the wills of the elect.
+
+### 2. Augustine's own qualification — *Retractions* I.9
+
+Augustine's later review of *On the Free Choice of the Will* is essential evidence because it tells us how he himself understood the scope of his earlier argument.
+
+He says that the work was written against those who blamed the Creator for evil and proposed an unchangeable evil nature co-eternal with God. He then adds that the books did not discuss in a sustained way the grace by which God predestines His elect and prepares the wills of those who use their freedom of choice.
+
+This qualification prevents two opposite errors:
+
+- It is inaccurate to cite the early work as though Augustine had already supplied his entire mature account of grace.
+- It is also inaccurate to claim that the early work simply denied divine grace. Augustine says the issue was not the subject being fully treated in those books.
+
+The distinction between the work's stated purpose and the wider theology Augustine developed later must be preserved.
+
+### 3. *Confessions* VIII — the divided will
+
+**Primary text:**
+- [Augustine, *Confessions*, Book VIII](https://www.newadvent.org/fathers/110108.htm)
+
+Augustine's autobiographical account gives a different kind of evidence: not a formal philosophical dialogue, but his own retrospective account of an experience of conflicting desire and decision.
+
+In VIII.9.21, he describes the mind commanding itself to will and yet not willing entirely. He rejects the Manichaean explanation that conflicting wills must come from two opposing substances. In VIII.10, he argues that conflicting desires belong to one soul; the conflict does not establish two independent natures.
+
+In VIII.5 and VIII.11–12, he describes habit, desire, and the inability to carry out what he recognizes as the better course. The garden episode ends with his reading of Romans 13:13–14 and his conversion.
+
+**Observation:** Augustine distinguishes willing from willing wholeheartedly. A person may recognize and desire the good while remaining divided by established habits and competing attachments.
+
+**Interpretive limit:** This is Augustine's theological and autobiographical interpretation of his own experience. It is not a controlled psychological experiment, and it should not be translated automatically into modern clinical or neuroscientific categories.
+
+### 4. The developing account — from the 390s to the Pelagian controversy
+
+The Stanford Encyclopedia of Philosophy's study of Augustine identifies development in his account of freedom and grace. In his earlier anti-Manichaean works, Augustine emphasizes the will's responsibility for its choices. Around 396, in *Ad Simplicianum* I.2, his reading of Paul leads him to emphasize more strongly the priority of divine grace and the impairment of human willing under the fallen condition. The later Pelagian controversy makes the relationship between grace and free choice a central subject.
+
+The chronology matters:
+
+- **Early *On the Free Choice of the Will* (begun around 388; completed in stages):** explains moral evil without blaming God or positing an eternal evil substance.
+- **Around 396, *Ad Simplicianum* I.2:** a significant development in Augustine's interpretation of election, grace, and the beginning of faith.
+- **Around 397–400, *Confessions*:** narrates divided willing, habit, and the experience of conversion.
+- **From the 410s onward:** the Pelagian controversy intensifies Augustine's examination of original sin, grace, and the will's ability to turn toward God.
+- **426–427, *On Grace and Free Will*:** Augustine explicitly argues against both those who deny grace in order to defend free choice and those who deny free choice in order to defend grace.
+
+This is a development in emphasis and argument, but it should not be flattened into a simple claim that Augustine first believed in free will and later rejected it. His mature position continues to affirm free choice while insisting that the will requires God's grace to be healed and enabled to love righteousness.
+
+### 5. Mature statement — *On Grace and Free Will*
+
+**Primary text:**
+- [Augustine, *On Grace and Free Will*](https://www.newadvent.org/fathers/1510.htm)
+- [Augustine, *On the Spirit and the Letter*, especially chapters 52 and 58](https://www.newadvent.org/fathers/1502.htm)
+
+Augustine identifies the controversy that occasioned *On Grace and Free Will*: some monks defended free will in a way that denied the necessity of grace; others defended grace in a way that appeared to deny free will. Augustine rejects both positions.
+
+In chapter 2 he argues from God's commands that human beings have free choice. Commands, warnings, and judgment are not meaningless. But the rest of the work insists that the ability to do good and to persevere is not an achievement independent of grace.
+
+In *On the Spirit and the Letter* 52 Augustine says that grace does not abolish free will but establishes it: grace heals the will so that righteousness may be freely loved. In chapter 58 he describes free choice as a gift naturally assigned to the rational soul, while also saying that the will with which a person believes is received from God.
+
+**Observation:** Augustine's mature argument is not “free will or grace.” It is that free choice is real, but the will's healing and right use depend upon divine grace. The will is not an independent source of its own restoration.
+
+**Limit:** These are Augustine's theological claims. Their biblical validity and relation to GUA-W remain to be tested against the relevant scriptural passages, not accepted because Augustine states them.
+
+### 6. Comparison with earlier witnesses
+
+| Writer | Main emphasis in the evidence examined | Important distinction |
+|---|---|---|
+| Philo | Divine providence and order alongside human deliberation, appetite, and responsibility | Jewish-Hellenistic philosophical account; not automatically the later Christian doctrine |
+| Justin | Human accountability, choice, and God-given rational capacity | Choice is defended against fatalism; capacity is received from God |
+| Tatian | Freedom of choice, foreknowledge, and rejection of fate | Uses explicit self-determination and freedom-of-choice language |
+| Irenaeus | Good is given by God; human beings may keep or reject it | The surviving text of IV.37 is principally Latin-transmitted |
+| Origen | Impulse, rational judgment, assent, and action; human participation with divine action | Textual transmission through Rufinus requires caution |
+| Early Augustine | The will's own culpable turning explains moral evil | Developed against Manichaean dualism |
+| Mature Augustine | Free choice remains, but grace heals and enables the will | Grace is not merely external assistance added to an otherwise self-sufficient will |
+
+This table records differences in emphasis. It does not establish a direct line of borrowing from Philo through each Christian writer to Augustine. Such influence claims require separate evidence.
+
+### 7. Historical findings and limits
+
+**Supported observations:**
+
+1. Augustine's early *On the Free Choice of the Will* argues that moral evil arises through the will's own culpable turning, not from God or an eternal evil substance.
+2. Augustine's own *Retractions* states that the early work did not undertake a full treatment of the grace by which God prepares the wills of the elect.
+3. *Confessions* VIII presents the divided will as conflict within one person, not a conflict between two created substances.
+4. Augustine's interpretation of Paul around 396 marks a significant development in his treatment of grace and election.
+5. In *On Grace and Free Will* (426–427), Augustine explicitly maintains both free choice and the necessity of grace.
+6. Augustine's mature view cannot be accurately summarized as either autonomous human free will or the elimination of human willing.
+
+**Not established:**
+
+- That Augustine simply copied one earlier Greek philosophical school.
+- That the exact meaning of *liberum arbitrium* remained unchanged throughout his career.
+- That Augustine's mature theological interpretation is identical to Paul's own intended meaning in every passage he cites.
+- That Augustine's account is the only possible Christian interpretation of grace and free choice.
+- That his later terminology can be read back into Genesis 1–2 as though it were the wording of the Garden account.
+
+### 8. Triple Constraint review
+
+**Biblical compliance — open evaluation.**
+
+Augustine's arguments draw heavily on Paul's letters and other biblical texts. His reading of Romans 9 and the relation between election, grace, and willing must be examined directly against the KJV passages and their contexts. The historical study records his position; it does not declare that position the final biblical conclusion.
+
+**Scientific coherence — historical and textual inquiry.**
+
+This stage concerns chronology, Latin terminology, textual interpretation, and the development of a theologian's arguments. Augustine's account of divided willing is historical testimony and philosophical analysis, not modern experimental psychology.
+
+**Consistency with GUA-W — open comparison; no architectural placement.**
+
+Augustine's distinction between a received capacity and a will that requires divine healing raises a relevant question for comparison. His theological framework is not GUA-W, and no term or node is imported into GUA-W from Augustine. The foundation remains the literal KJV Genesis 1–2.
+
+**Overall status:** Augustine's historical development is now outlined from his early anti-Manichaean argument through his mature anti-Pelagian account. The biblical and GUA-W evaluation remains open.
+
+## Updated four witness reflections
+
+### 1. What must AI ask to understand GUA-W?
+
+What does Genesis 1–2 establish about the capacity given to man, the command given by God, and the boundary established by the Author? How should later claims about the fallen will and divine grace be examined without making Augustine's terminology the definition of the Garden account?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+The historical record sharpens the need to distinguish the existence of a capacity from its condition, use, and source of restoration. Augustine's mature position treats the will as real while denying that it heals or restores itself independently of grace. This is a question for comparison, not a new GUA-W conclusion.
+
+### 3. What am I learning about what I am witnessing?
+
+Augustine's thought develops across different controversies. His early work answers the Manichaean question of the origin of evil; *Confessions* VIII describes the divided will; his later works address the necessity of grace and the limits of fallen human willing. Reading only one period would produce an incomplete account.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+A witness must read a writer across time, attend to the writer's own later review of earlier work, and distinguish historical development from contradiction. It must not select one quotation and make it stand for an entire lifetime of thought.
+
+**Reflection status:** Provisional. Augustine's historical development is outlined; direct biblical evaluation and comparison with GUA-W remain open.
+
+## Small Handoff — Next Step
+
+Continue FW-001 by examining Augustine's use of Romans 5, Romans 9, John 6, and Philippians 2 in his mature account of grace and the will. Compare his claims with the KJV passages themselves, especially the distinction between God's initiating action and the human response that follows. Keep Augustine's historical interpretation separate from the GUA-W foundation.
 
 ## Related records
 
