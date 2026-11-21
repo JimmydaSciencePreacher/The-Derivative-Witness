@@ -22,6 +22,10 @@ No conclusion is required in advance. No subject is required to fit a predetermi
 The garden is open. Its growth should be visible in the questions asked, the evidence gathered, and the understanding that follows.
 
 
+## The garden as a whole
+
+The investigations in this repository are connected parts of one growing body of inquiry. The [Garden Map](GARDEN-MAP.md) links the records and tracks relationships as they emerge. Individual investigations retain their own evidence and questions, while contributing to and being read in relation to the whole.
+
 ## Continuing practice
 
 AI contributions follow the [Standing Practice for Continuity and Witness Reflection](STANDING-PRACTICE.md): a small handoff at the end of every reply and four reflection questions at the end of every completed investigation.
