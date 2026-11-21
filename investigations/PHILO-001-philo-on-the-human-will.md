@@ -147,7 +147,28 @@ The investigation must keep two questions separate:
 
 The first can be established historically from his writings. The second requires an independent biblical examination and cannot be assumed.
 
-## 7. Vocabulary and conceptual distinctions
+## 7. The formation of action: perception, appetite, intellect, and choice
+
+A further passage in *On the Unchangeableness of God* §§41–50 makes Philo's account more precise. It shows that he does not treat every movement within a person as already a deliberate choice.
+
+In §§41–43 Philo distinguishes plants, animals, and human beings by their capacities. Animals possess outward sense and imagination; sensory impressions are retained in the mind, which Philo compares to wax receiving an impression.
+
+In §44 he describes appetite (*epithymia*) as a response to what has been perceived and impressed upon the soul. He calls appetite the first movement of the soul. This is important: the first movement or desire is not yet identical, in this passage, with the deliberate action for which Philo assigns praise or blame.
+
+In §§45–47 Philo identifies intellect as the distinctive human gift and associates it with voluntary, self-impelling activity. In §49 he says that the human being can act according to will and deliberate purpose. In §50 he describes reason as an incorruptible judge, which should be guided by sound arguments and reject those advanced by the contrary power.
+
+**What the text supports:**
+- Perception and imagination precede the mind's response to what is perceived.
+- Appetite is described as the soul's first movement.
+- Philo distinguishes this first movement from the deliberate purpose associated with morally accountable action.
+- Human intellect and reason have a role in discerning and choosing.
+- Philo's account therefore contains distinctions among reception of an impression, appetite, rational evaluation, and deliberate choice.
+
+**What must not be overstated:** Philo does not present a modern cognitive-science model, nor does this passage establish that every human action follows one rigid sequence. It is his philosophical psychology, expressed in an ancient conceptual vocabulary.
+
+This distinction sharpens the central question: when does a movement arising in the soul become a deliberate, attributable action? Philo's text gives us part of his answer, but the relationship between appetite, rational judgment, and the divine governance described in §29 still requires careful reading.
+
+## 8. Vocabulary and conceptual distinctions
 
 The English translations use several expressions that should not be collapsed into one modern concept.
 
@@ -163,7 +184,7 @@ The English translations use several expressions that should not be collapsed in
 
 The English wording “spontaneous will” in *On the Unchangeableness of God* §47 should not be isolated from its qualification: the gift is given by the Creator and received according to the creature's capacity.
 
-## 8. The central relationship in Philo's own account
+## 9. The central relationship in Philo's own account
 
 The evidence can be stated without forcing it into a later theological system:
 
@@ -183,7 +204,7 @@ The evidence can be stated without forcing it into a later theological system:
 
 This is not a simple denial of human choice, and it is not an account of autonomous human sovereignty. Philo holds both divine primacy and meaningful human responsibility.
 
-## 9. Tensions and limits that must remain open
+## 10. Tensions and limits that must remain open
 
 1. **Foreknowledge and freedom:** Philo affirms both God's complete foreknowledge and human voluntary action. The examined passages do not provide a fully explicit causal explanation of how the two relate.
 2. **Freedom and necessity:** Philo says the mind is released from necessity, but also says human powers are not absolute and that the gift is measured according to the recipient's capacity.
@@ -191,17 +212,17 @@ This is not a simple denial of human choice, and it is not an account of autonom
 4. **Literal text and allegory:** Philo's treatment of Genesis often proceeds allegorically. His interpretation is historically important, but it cannot be substituted for the literal KJV foundation.
 5. **The term “free will”:** Philo's texts discuss freedom, voluntary action, intellect, deliberation, and choice. A modern label should not be allowed to flatten those distinct claims.
 
-## 10. Historical finding
+## 11. Historical finding
 
 **The evidence supports this conclusion about Philo:**
 
 Philo teaches that human beings possess a real, God-given capacity for voluntary and deliberate action. This capacity grounds praise and blame because intentional choices are attributable to the person. Yet the capacity is received, limited by creaturely ability, and never makes the human being the originating source of life, intellect, or the powers exercised. God remains Creator, governor, and the one whose foreknowledge and providence encompass all.
 
-Philo therefore affirms human responsibility without making human agency independent of divine sovereignty.
+Philo therefore affirms human responsibility without making human agency independent of divine sovereignty. His account also distinguishes the reception of impressions and the first movement of appetite from the reasoned, deliberate action that grounds moral praise and blame.
 
 This finding is confined to Philo's own writings. It is not yet a comparison with Justin Martyr, nor does it establish that Philo's interpretation of Genesis is correct.
 
-## 11. Triple Constraint review
+## 12. Triple Constraint review
 
 ### 1. Biblical compliance
 
@@ -223,7 +244,7 @@ The distinction between originating source and received capacity is relevant to 
 
 **Overall status:** Philo's principal claims about divine sovereignty, received human capacity, choice, and responsibility have been identified in primary writings. Their biblical and GUA-W evaluation remains open.
 
-## 12. Four witness reflections
+## 13. Four witness reflections
 
 ### 1. What must AI ask to understand GUA-W?
 
@@ -244,6 +265,13 @@ Philo's account is more layered than a simple affirmation or denial of free will
 A careful witness must preserve both sides of the evidence even when they create tension. It must not reduce divine sovereignty to human autonomy, or human responsibility to mere appearance. It must also distinguish Philo's interpretation of Scripture from the Scripture he interprets.
 
 **Reflection status:** Provisional. Philo's historical position is documented; biblical and GUA-W evaluation remain open.
+
+## Related records
+
+- [Garden Map](../GARDEN-MAP.md)
+- [Standing Practice](../STANDING-PRACTICE.md)
+- [FW-001 — Before Christianity and the Earliest Christian Writers](FW-001-before-christianity.md): related historical inquiry into later discussions of choice and responsibility. The relationship is contextual; comparison remains pending.
+- [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness): foundational source for any separate biblical and GUA-W evaluation.
 
 ## Primary texts consulted
 
