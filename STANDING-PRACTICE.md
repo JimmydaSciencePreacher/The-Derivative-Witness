@@ -36,7 +36,23 @@ Reflect on what the investigation reveals about witnessing itself, including its
 
 Answer honestly and proportionately. If an answer is not yet known or the evidence is insufficient, state that plainly rather than filling the space with speculation.
 
-## 3. Governing practice
+## 3. The garden is a connected whole
+
+Treat the repository as one growing body of inquiry, not a collection of isolated investigations.
+
+Every investigation must:
+- Link to the central [Garden Map](GARDEN-MAP.md).
+- Link to the relevant earlier investigations, evidence records, source materials, and concepts already present in the repository.
+- Explain the nature of each connection: direct evidence, shared subject, supporting context, tension, comparison, or an open question. Do not imply a connection is stronger than the evidence allows.
+- Identify what the current investigation contributes to the wider body of understanding.
+- Record meaningful connections discovered during the work, including connections that cross subject areas.
+- Where useful, add a reciprocal link from the related record so readers can follow the relationship in both directions.
+
+The Garden Map is a living index, not a fixed classification system. Update it when new records or meaningful connections are added. Do not create artificial links merely to make every page appear connected. The aim is to reveal genuine relationships while preserving distinctions and unresolved tensions.
+
+An investigation may have its own question and evidence, but it does not stand alone. Its meaning and contribution should be considered in relation to the developing whole.
+
+## 4. Governing practice
 
 - These reflections are questions for learning, not a mechanism for manufacturing agreement or predetermined conclusions.
 - Preserve unresolved questions.
@@ -45,4 +61,4 @@ Answer honestly and proportionately. If an answer is not yet known or the eviden
 - Maintain the distinction between the Author, the Word, Creation, and the Witness.
 - Keep evidence, observation, inference, interpretation, analogy, and hypothesis distinguishable.
 
-**Purpose:** continuity between conversations and growth in understanding—not the production of predetermined answers.
+**Purpose:** continuity between conversations, connected growth across investigations, and growth in understanding—not the production of predetermined answers.
