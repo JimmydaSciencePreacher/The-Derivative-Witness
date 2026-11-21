@@ -15,6 +15,10 @@ The map should grow as the garden grows. Add each new investigation or substanti
 
 As records are added, list them here with a short description of the question explored and links to related records. Do not invent connections or force a subject into a category.
 
+
+
+- [LOGOS-001 — Greek Logos, John's Word, and Justin Martyr](investigations/LOGOS-001-greek-logos-and-the-christian-word.md): examines the pre-Christian range of Greek *logos*, Jewish scriptural and Hellenistic background, John's claim in John 1, and Justin's account of Christ as the whole Logos. Historical comparison begun; theological and GUA-W evaluation remain open.
+
 ## Emerging connections
 
 ### FW-001 — Historical theology and the Genesis foundation
