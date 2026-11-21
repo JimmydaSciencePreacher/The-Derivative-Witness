@@ -536,3 +536,145 @@ Read each passage in its own biblical context in the KJV. Distinguish the biblic
 
 
 - [PHILO-001 — Philo of Alexandria on the Human Will, Divine Sovereignty, and Responsibility](PHILO-001-philo-on-the-human-will.md): examines Philo's first-century Jewish account of divine providence, received human freedom, appetite, deliberation, and responsibility. It supplies earlier historical context; comparison with the later writers in this investigation remains a separate task.
+
+
+---
+
+## Fourth examination — the cited Scriptures in their own contexts
+
+This stage tests the passages cited by Justin, Irenaeus, and Origen against their surrounding KJV context. The purpose is to distinguish the biblical text from each writer's interpretation. A passage that supports moral accountability does not automatically establish every later philosophical claim made in its name.
+
+### 1. Justin Martyr — Deuteronomy 30:15–20 and Isaiah 1:10–20
+
+**Primary biblical texts:**
+- [Deuteronomy 30:1–20, KJV](https://www.biblegateway.com/passage/?search=Deuteronomy+30&version=KJV)
+- [Isaiah 1:1–20, KJV](https://www.biblegateway.com/passage/?search=Isaiah+1%3A1-20&version=KJV)
+- [Justin, First Apology 43–44](https://www.newadvent.org/fathers/0126.htm)
+
+**Deuteronomy 30:** The passage belongs to Moses' covenant address to Israel. The people are addressed in relation to the covenant, the commandments, obedience, life and death, blessing and cursing, and the land they are about to enter. Verses 15–16 set life and good against death and evil in the context of loving the LORD and keeping His commandments. Verse 19 calls heaven and earth as witnesses and says, “therefore choose life.”
+
+Justin's chapter 44 describes Moses as speaking to “the man first created” and gives a compressed formulation about good and evil and choosing good. The KJV text of Deuteronomy 30 does not identify Adam as its audience. It addresses Israel. Justin's wording also combines the contrast in verse 15 with the choice stated in verse 19; it is not a verbatim quotation of either verse.
+
+**Historical observation:** Justin applies the covenant passage to a general argument about human responsibility. That is his interpretive use of the text. It must not be confused with the passage's stated audience or represented as a direct quotation addressed to Adam.
+
+**Isaiah 1:** Isaiah identifies the vision as concerning Judah and Jerusalem. Verses 10–17 condemn corrupt worship and injustice; verses 16–17 call for cleansing, cessation of evil, justice, and care for the oppressed. Verses 18–20 set the Lord's offer and warning before the rebellious people: willingness and obedience are contrasted with refusal and rebellion.
+
+Justin's appeal to Isaiah is substantially recognizable as Isaiah 1:16–20. It supports his point that the prophetic message calls for repentance and obedience and announces consequences. Its immediate setting, however, is Judah's covenant unfaithfulness and social injustice, not an abstract treatise on the metaphysics of the will.
+
+**Finding:** Justin uses Scripture to argue that foreknowledge does not make human conduct morally meaningless. His application is broader than the immediate historical audience of the cited passages. The record must preserve both facts.
+
+### 2. Irenaeus — Matthew 23:37–39 and Romans 2:1–11
+
+**Primary biblical texts:**
+- [Matthew 23:29–39, KJV](https://www.biblegateway.com/passage/?search=Matthew+23%3A29-39&version=KJV)
+- [Romans 2:1–16, KJV](https://www.biblegateway.com/passage/?search=Romans+2%3A1-16&version=KJV)
+- [Irenaeus, Against Heresies IV.37](https://www.newadvent.org/fathers/0103437.htm)
+
+**Matthew 23:** Jesus addresses Jerusalem in a lament that follows His denunciation of scribes and Pharisees and their treatment of the prophets. The words “how often would I have gathered thy children together” and “ye would not” express a real contrast between the gathering desired and the refusal described. The surrounding verses speak of Jerusalem's violence against those sent to it and the resulting desolation.
+
+Irenaeus reads this refusal as evidence that human beings are not compelled to obey. That is a recognizable inference from the language of willing and refusal. The passage itself is a lament and judgment concerning Jerusalem; it is not a systematic account of every dimension of human freedom.
+
+**Romans 2:** Paul's argument begins by confronting the person who judges another while doing the same things. Verses 4–5 contrast God's goodness, forbearance, and longsuffering—which lead toward repentance—with a hard and impenitent heart. Verses 6–11 describe judgment according to deeds and God's impartiality.
+
+Irenaeus quotes this material to argue that people receive good from God and are accountable for what they do with it. The passage supports the themes of divine patience, repentance, conduct, and judgment. It does not, by itself, answer every question about the origin of willingness, the operation of grace, or the power of a fallen person to respond.
+
+**Finding:** Irenaeus joins Jesus' lament over Jerusalem with Paul's account of judgment. His argument is that divine goodness is given and human refusal is meaningful. The biblical texts support the presence of response and accountability; the full philosophical account remains Irenaeus's interpretation.
+
+### 3. Origen — Romans 9:14–24 and 2 Timothy 2:14–26
+
+**Primary biblical texts:**
+- [Romans 9:14–24, KJV](https://www.biblegateway.com/passage/?search=Romans+9%3A14-24&version=KJV)
+- [2 Timothy 2:14–26, KJV](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A14-26&version=KJV)
+- [Origen, On First Principles III.1.21–22, textual presentation and notes](https://www.sophiascriptura.com/fathers/origen-de-principiis/3-1-15/)
+
+**Romans 9:** Paul's argument concerns God's mercy, election, the hardening of Pharaoh, the Creator's authority, and the relation between the One who forms and the thing formed. The potter-and-clay language in verses 20–21 must be read with the surrounding argument, including verses 14–24. It cannot be reduced to a statement that human beings independently determine their final condition.
+
+**2 Timothy 2:** The vessel illustration occurs within instruction about false teaching, departing from iniquity, and becoming useful for the Master's work. Verses 20–21 describe vessels of different uses and the person who purges himself to become a vessel unto honour. The surrounding passage also matters: verse 25 says that God may grant repentance, and verse 26 describes escape from the snare of the devil.
+
+Origen places Romans 9 alongside 2 Timothy 2:20–21. He argues that the potter image does not make the Creator the source of each person's evil conduct, because Paul also speaks of cleansing, praise, blame, and judgment. He reads the person's cleansing as relevant to the vessel's resulting condition.
+
+This is Origen's reconciliation of the passages. It is not a neutral restatement of Romans 9 or 2 Timothy 2. In particular, Origen's wider argument includes his own account of prior causes and the history of rational souls. Those additional teachings must be identified as Origen's, not silently attributed to Paul.
+
+**Textual caution:** The examined English presentation of Origen III.1.21–22 is based on Rufinus's Latin transmission of Origen's lost Greek, with editorial and textual notes. It is useful evidence for the transmitted argument, but it does not give direct access to every original Greek word. Rufinus's role and the transmission limits remain part of the evidence.
+
+**Finding:** Origen tries to preserve both divine creative authority and meaningful human accountability. His solution is a developed theological interpretation. The two Pauline passages must first be allowed to speak in their own contexts before Origen's synthesis is evaluated.
+
+### 4. Comparison with the literal KJV foundation — Genesis 1–2
+
+**Primary text:** [Genesis 1–2, KJV](https://www.biblegateway.com/passage/?search=Genesis+1-2&version=KJV)
+
+The comparison must begin with what Genesis itself states:
+
+- Genesis 1:26–28 gives humanity a created place and commission, including dominion over the living creatures. It does not state that humanity receives authority to redefine the Creator's good.
+- Genesis 1:31 records God's own assessment of the finished creation as “very good.”
+- Genesis 2:7 describes man as formed from the dust and given the breath of life by God.
+- Genesis 2:15 places the man in the Garden with an assigned work.
+- Genesis 2:16–17 gives permission to eat from the trees, establishes a specific prohibition, and states its consequence.
+- Genesis 2:19–20 records Adam naming the animals. This is an assigned act within the created order; the text does not identify it as authority to determine good and evil.
+
+**What is present:** God's originating action, provision, command, permission, boundary, and stated consequence. Man is addressed and given an assigned place within the Garden.
+
+**What is not explicitly defined:** Genesis 1–2 does not present a philosophical definition of “free will,” nor does it give a systematic account of the mechanics or limits of human volition. The narrative establishes a command and a boundary; it does not use the later technical vocabulary of Justin, Irenaeus, or Origen.
+
+**Important distinction:** The ability to respond to a command, the responsibility associated with that command, and authority to determine what is good are separate questions. Genesis 1–2 gives the standard and boundary from God. It does not state that Adam is the authority who establishes that standard.
+
+The historical writers may be compared with this foundation, but their terminology cannot be imported into Genesis as though it were already present there.
+
+### 5. What this examination establishes
+
+1. Justin's Deuteronomy appeal is an interpretive application of Israel's covenant text, not a direct quotation addressed to Adam. His Isaiah appeal is grounded in a passage addressing Judah's rebellion and injustice.
+2. Irenaeus reads Matthew 23:37 and Romans 2 as evidence of meaningful refusal, divine goodness, repentance, and accountability. Those texts do not alone settle the complete philosophical question of free will.
+3. Origen uses Romans 9 and 2 Timothy 2 together to defend human accountability under God's creative authority. His reconciliation includes theological premises beyond the wording of either passage.
+4. Genesis 1–2 establishes God's authority, man's created place, God's command, and the boundary placed before man. It does not supply the later technical doctrine of *liberum arbitrium*.
+5. The distinction between capacity, response, responsibility, and authority to define good and evil must remain intact.
+
+### 6. Triple Constraint review
+
+**Biblical compliance — textually examined; theological synthesis remains open.**
+
+The cited passages have been read in their surrounding contexts and distinguished from the early writers' applications. Genesis 1–2 remains the foundation for comparison, not a text to be reinterpreted through later terminology.
+
+**Scientific coherence — historical-textual inquiry.**
+
+This stage makes claims about surviving texts, their contexts, and their interpretation. It makes no empirical-science claim. No biological or physical conclusion is inferred from these theological arguments.
+
+**Consistency with GUA-W — comparison open; no architectural placement.**
+
+The evidence requires the distinctions between originating authority, received capacity, human response, and derivative interpretation to remain visible. No GUA-W structure is added, revised, or inferred from the early writers.
+
+**Overall status:** This scriptural-context examination is complete for the passages listed. It clarifies what the cited texts say and what the writers infer from them. The broader theological question of the will, divine initiative, and salvation remains open.
+
+## Updated four witness reflections
+
+### 1. What must AI ask to understand GUA-W?
+
+What does Genesis 1–2 actually state about the man's created capacity, assigned work, permission, command, and boundary? Which later claims about the will are interpretations rather than statements found in the foundation?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+The comparison requires a strict distinction between the Source's authority and the response of what is created. A received capacity does not, by itself, establish authority to determine the standard by which that capacity is judged.
+
+This remains a comparison question, not a new architectural node.
+
+### 3. What am I learning about what I am witnessing?
+
+The early Christian writers appeal to real biblical passages, but their applications are not identical to the original contexts. Justin compresses and broadens covenant texts; Irenaeus draws an argument about refusal and accountability from Jesus' lament and Paul's judgment passage; Origen constructs a wider reconciliation of divine sovereignty and human responsibility.
+
+The biblical texts, the writers' interpretations, and later doctrinal conclusions must remain distinguishable.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+A witness must return to the source rather than relying only on another witness's quotation. It must identify the audience, context, wording, and limits of each passage. It must also distinguish what is explicitly stated from what is inferred.
+
+**Reflection status:** Provisional. The selected scriptural contexts have been examined; the wider theological evaluation remains open.
+
+## Small Handoff — Next Step
+
+Continue FW-001 by moving forward to Augustine and examining his use of *liberum arbitrium* and *libera voluntas*. Trace what he receives from earlier writers, what he changes, and how his discussion of sin, grace, and the will develops. Keep Augustine's later formulations distinct from the earlier evidence and from the literal Genesis 1–2 foundation.
+
+## Related records
+
+- [Garden Map](../GARDEN-MAP.md)
+- [Standing Practice](../STANDING-PRACTICE.md)
+- [PHILO-001 — Philo of Alexandria on the Human Will](PHILO-001-philo-on-the-human-will.md)
+- [God's Unified Architecture of Witness](https://github.com/JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness)
