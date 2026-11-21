@@ -36,6 +36,31 @@ No. The philosophical questions later associated with free will were already bei
 
 How did early Christian writers take up, adapt, or challenge these pre-Christian discussions—and which writers first made human freedom a significant part of Christian teaching?
 
+
+## Four witness reflections
+
+### 1. What must AI ask to understand GUA-W?
+
+How does Genesis 1–2 describe the human capacity to choose and act, and does that differ from later claims that human beings possess independent authority to determine good and evil? This remains open; the historical survey cannot answer it.
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+Nothing about GUA-W is established by this historical finding alone. The comparison with the Genesis foundation has not yet been made. The distinction between the human capacity to choose and the authority to define good and evil must not be assumed away.
+
+### 3. What am I learning about what I am witnessing?
+
+The debate about human agency, responsibility, fate, and freedom predates Christianity. However, shared vocabulary or similar questions do not by themselves prove that later Christian teaching was borrowed from a particular philosophical school.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+AI must distinguish the first appearance of a term, earlier discussions of a related idea, and the later development of a doctrine. It must trace documented transmission rather than assign a single originator without evidence.
+
+**Reflection status:** Provisional. These reflections identify the next questions; they do not settle the biblical or GUA-W evaluation.
+
+## Small Handoff — Next Step
+
+Trace the earliest Christian writers who discussed human choice and responsibility. Identify their actual terms, sources, and arguments before claiming that a particular idea entered the Church.
+
 ## Related records
 
 - [Garden Map](../GARDEN-MAP.md)
