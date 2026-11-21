@@ -11,7 +11,7 @@ The map should grow as the garden grows. Add each new investigation or substanti
 
 ## Investigations
 
-No investigation records have been planted in this repository yet.
+- [FW-001 — Before Christianity: Ancient Roots of the Free-Will Debate](investigations/FW-001-before-christianity.md): preliminary historical finding that discussions of human choice, responsibility, fate, and freedom—and the Latin expression *libera voluntas*—predate Christianity. The investigation of how these ideas entered Christian teaching remains open.
 
 As records are added, list them here with a short description of the question explored and links to related records. Do not invent connections or force a subject into a category.
 
