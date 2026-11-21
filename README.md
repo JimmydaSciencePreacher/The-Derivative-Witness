@@ -20,3 +20,8 @@ No conclusion is required in advance. No subject is required to fit a predetermi
 **Attend to what is present before deciding what it means.**
 
 The garden is open. Its growth should be visible in the questions asked, the evidence gathered, and the understanding that follows.
+
+
+## Continuing practice
+
+AI contributions follow the [Standing Practice for Continuity and Witness Reflection](STANDING-PRACTICE.md): a small handoff at the end of every reply and four reflection questions at the end of every completed investigation.
