@@ -266,7 +266,112 @@ The evidence therefore requires at least three meanings to be kept distinct:
 
 Philo relates these concepts, but they are not interchangeable. His affirmation of voluntary agency does not mean that every person is ethically free; his account of ethical slavery does not mean that human beings have no intentional agency; and neither claim makes the human being the originating source of the faculties being exercised.
 
-## 12. Vocabulary and conceptual distinctions
+## 12. Primary source: *On Three Virtues* — received strength, gifts, and repentance (§§161–185)
+
+Primary text, Greek and English:
+- [Philo, *On Three Virtues* §§161–185](https://adfonteslibrary.org/work-st-philo-three-virtues-that-is-to-say-on-courage-humanity)
+
+This passage makes the relationship between received capacity and human responsibility more concrete.
+
+### A. Strength is received, not self-originated — §§163–169
+
+Philo interprets Deuteronomy's statement that God gives strength to acquire power as a warning against arrogance. A person who recognizes that strength and prosperity were received from God should reject the belief that they are self-made or self-sufficient (§§163–166).
+
+But Philo does not say that the recipient is passive. The person who has received strength is instructed to use it for the benefit of others. The wise person should help others become wise, the temperate help others become temperate, and the just help others become just (§167). Philo then says that gifts from the supreme Ruler are given to particular people for common benefit, not for concealment or harm (§§168–169).
+
+**Finding:** Receipt does not eliminate responsibility for use. The human being does not originate the gift, but is accountable for how the gift is exercised and shared.
+
+This is a particularly clear example of Philo holding divine source and human stewardship together. It is not evidence that the recipient creates the capacity; nor does it mean that the recipient has no meaningful action to perform.
+
+### B. Repentance as a real change of direction — §§175–185
+
+Philo calls repentance a recovery after moral error (§§175–177). He describes a change from ignorance to knowledge, folly to wisdom, intemperance to temperance, injustice to righteousness, and cowardice to courage (§§178–182).
+
+He then interprets Deuteronomy 30:14–15 as locating the task near the human being: in mouth, heart, and hands, which he allegorically associates with words, counsels, and actions (§§183–184). He also discusses the reciprocal language of choosing God and being chosen by God (§185).
+
+This passage is important because Philo does not erase human response. He describes repentance as a genuine change of thought, intention, and action. At the same time, his broader corpus attributes the capacities and gifts required for virtue to God.
+
+**Unresolved point:** Philo's reciprocal language about human choosing and divine choosing does not, by itself, explain the causal order between them. The text should not be forced to settle that question.
+
+## 13. Primary source: *On Abraham* — natural virtue, deliberation, and providential change (§§4–6, 15–26, 36–40)
+
+Primary text:
+- [Philo, *On Abraham* §§4–6 and following](https://ccel.org/ccel/philo/works/works.iii.xxiii.html)
+
+Philo presents the patriarchs as “living and rational laws” whose lives encourage readers to imitate virtue (§§4–5). He says that the earliest righteous people lived before the written commandments, following natural impulses and an innate virtue (§6). He distinguishes deliberate actions from actions not arising through voluntary purpose, and says that they sought reconciliation with God for accidental errors.
+
+This gives us a further distinction: in Philo's presentation, virtuous conduct can arise from an innate disposition and natural prompting, not only from a later act of explicit deliberation or obedience to a written command.
+
+In §§15–19 Philo treats hope and repentance as virtues, and describes Enoch's change for the better as occurring through divine providence. In §§24–26 he describes the movement from ignorance to instruction, folly to wisdom, and pleasure to temperance, while distinguishing complete virtue from improvement over time.
+
+In §§36–40 he distinguishes people who preserve a well-disposed nature from those who rise above the corrupt patterns of their generation. He associates virtuous action with deliberate purpose, and describes human beings as capable of pursuing either virtue or wickedness.
+
+**What this text adds:**
+- Philo allows for a natural or innate disposition toward virtue.
+- He does not make written instruction the only possible source of virtuous conduct.
+- He distinguishes accidental error from deliberate wrongdoing.
+- He treats improvement and repentance as real changes, and associates at least some such change with divine providence.
+- He describes deliberate human conduct as morally significant.
+
+**Interpretive caution:** *On Abraham* is an encomiastic and allegorical portrait of biblical patriarchs, not a neutral psychological treatise. “Innate virtue” here is Philo's philosophical interpretation of the patriarchal narratives. It must not be treated as an uncontested statement about every human being's actual condition.
+
+## 14. Primary source: *Questions and Answers on Genesis I* — impulse, hesitation, and divine instruction (§§50–55)
+
+Primary text:
+- [Philo, *Questions and Answers on Genesis I*](https://adfonteslibrary.org/work-st-philo-questions-and-answers-on-genesis-i)
+
+This is among the most directly relevant passages in the investigation because Philo comments on the Genesis narrative itself.
+
+### A. The mind, the senses, and the regulation of the will — §50
+
+In his allegorical treatment of Genesis 3:17, Philo says that intellect is a divine inspiration. He describes the body as a field cultivated by the mind: when the cultivator is virtuous and diligent, the body bears proper fruit; when the intellect is undisciplined, the result is vice and disorder. He also says that divine food, given through philosophy and distinct words and laws, regulates the will.
+
+This is Philo's allegorical account, not a literal statement of Genesis. It nevertheless shows that he understands the will as something requiring direction and regulation, rather than as an authority that defines its own standard.
+
+### B. An impulse arises from what appears — §§52 and 55
+
+In §52 Philo associates the senses with the imaginations and impulses of the soul. In §55, while interpreting God's words concerning the tree of life, he describes a sequence: when an appearance presents itself to a person, an impulse toward that apparent object immediately arises; then a further uncertainty or hesitation can arise as the mind considers whether the object should be accepted or acquired.
+
+This passage adds a useful distinction to the earlier discussion of appetite in *On the Unchangeableness of God* §§42–50. Philo distinguishes:
+- an object or appearance being presented;
+- an impulse arising toward it;
+- a subsequent hesitation or deliberation about whether to accept or pursue it.
+
+He does not say in this passage that the first impulse is already the person's settled moral choice. Nor does he provide a complete modern account of cognition or decision-making. The passage is his philosophical reading of the Genesis text.
+
+### C. Sovereign providence and disciplinary instruction — §55
+
+Philo says that divine providence can be spoken of in two ways: in relation to God's sovereign power, and in relation to God's disciplinary instruction of human beings. He interprets the language of “lest perchance” not as uncertainty in God, but as instruction adapted to the human condition, intended to introduce a voluntary inclination.
+
+This is a significant statement. Philo portrays divine instruction as addressing human beings in a way that engages their own response. The purpose is not merely to announce an outcome but to instruct the person and incline the heart voluntarily.
+
+**What the text establishes:** Philo joins divine sovereignty with a mode of providential instruction that addresses human hesitation and seeks a voluntary response.
+
+**What remains unresolved:** The passage does not explain how the sovereign and disciplinary aspects of providence relate causally, nor does it state that every human impulse or decision is directly produced by God. It must not be expanded beyond its actual wording.
+
+**Transmission caution:** The *Questions and Answers* survive incompletely, and the English text used here is a translation. The present argument is based on the surviving text as transmitted, not on a claim that the entire original work is extant.
+
+## 15. Revised synthesis — what these additional texts change
+
+These passages do not overturn the earlier finding, but they sharpen it in four ways.
+
+1. **Received capacity entails stewardship.** In *On Three Virtues* §§163–169, gifts and strength come from God, yet the recipient is responsible for using them for the good of others.
+2. **Virtue can be described as natural or innate.** In *On Abraham* §§4–6, Philo presents the patriarchs as acting from natural impulses and innate virtue before written law. This is a claim about his idealized patriarchal figures, not a universal empirical claim about all people.
+3. **Impulse is not yet settled choice.** In *Questions and Answers on Genesis I* §§52 and 55, an appearance gives rise to an impulse, after which hesitation and deliberation may follow.
+4. **Providential instruction seeks voluntary response.** In *Questions and Answers on Genesis I* §55, Philo distinguishes God's sovereign power from disciplinary instruction adapted to the human condition.
+
+The working account therefore now includes a further distinction:
+
+- **Received capacity:** powers and gifts originate in God.
+- **Impression and impulse:** an appearance can occasion an initial movement in the soul.
+- **Deliberation and response:** the person may hesitate, evaluate, accept, or refuse.
+- **Exercise and stewardship:** the person acts with received capacities and is responsible for their use.
+- **Moral condition:** the person may be improving toward virtue or enslaved by vice.
+- **Divine governance and instruction:** God's providence encompasses creation and includes instruction intended to engage voluntary human response.
+
+This is a synthesis of several Philo passages, not a sequence Philo presents as one formal universal mechanism. The distinctions are supported across the texts, but the causal relations among them remain partly unresolved.
+
+## 16. Vocabulary and conceptual distinctions
 
 The English translations use several expressions that should not be collapsed into one modern concept.
 
@@ -282,7 +387,7 @@ The English translations use several expressions that should not be collapsed in
 
 The English wording “spontaneous will” in *On the Unchangeableness of God* §47 should not be isolated from its qualification: the gift is given by the Creator and received according to the creature's capacity.
 
-## 13. The central relationship in Philo's own account
+## 17. The central relationship in Philo's own account
 
 The evidence can be stated without forcing it into a later theological system:
 
@@ -302,7 +407,7 @@ The evidence can be stated without forcing it into a later theological system:
 
 This is not a simple denial of human choice, and it is not an account of autonomous human sovereignty. Philo holds both divine primacy and meaningful human responsibility.
 
-## 14. Tensions and limits that must remain open
+## 18. Tensions and limits that must remain open
 
 1. **Foreknowledge, governance, and freedom:** Philo affirms divine foreknowledge and providence, says God allows nothing to abuse its liberty beyond divine comprehension (§29), and also attributes voluntary and deliberate action to human beings (§§47–50). The exact causal relationship remains unexplained in these passages.
 2. **Freedom and necessity:** Philo says the mind is released from necessity, but also says human powers are not absolute and that the gift is measured according to the recipient's capacity.
@@ -311,17 +416,17 @@ This is not a simple denial of human choice, and it is not an account of autonom
 5. **The term “free will”:** Philo's texts discuss freedom, voluntary action, intellect, deliberation, and choice. A modern label should not be allowed to flatten those distinct claims.
 6. **The ordered creation:** Philo's account of appointed stations (§34) must be read alongside his account of human deliberation. It supports divine governance but does not, by itself, settle whether or how particular choices are causally determined.
 
-## 15. Historical finding
+## 19. Historical finding
 
 **The evidence supports this conclusion about Philo:**
 
-Philo teaches that human beings possess a real, God-given capacity for voluntary and deliberate action. This capacity grounds praise and blame because intentional choices are attributable to the person. Yet the capacity is received, limited by creaturely ability, and never makes the human being the originating source of life, intellect, or the powers exercised. He further distinguishes voluntary agency from ethical freedom: a person may act intentionally while still being enslaved by passions and vice; true freedom, in his ethical argument, belongs to the virtuous person guided by God and reason. God remains Creator, governor, and the one whose foreknowledge and providence encompass all.
+Philo teaches that human beings possess a real, God-given capacity for voluntary and deliberate action. This capacity grounds praise and blame because intentional choices are attributable to the person. Yet the capacity is received, limited by creaturely ability, and never makes the human being the originating source of life, intellect, or the powers exercised. His other writings add that received gifts create duties of stewardship; that natural disposition may prompt virtue; and that an impulse arising from an appearance is distinguishable from the subsequent hesitation and deliberation. He further distinguishes voluntary agency from ethical freedom: a person may act intentionally while still being enslaved by passions and vice; true freedom, in his ethical argument, belongs to the virtuous person guided by God and reason. God remains Creator, governor, and the one whose foreknowledge and providence encompass all.
 
 Philo therefore affirms human responsibility without making human agency independent of divine sovereignty. His account distinguishes the reception of impressions and the first movement of appetite from the reasoned, deliberate action that grounds moral praise and blame. At the same time, he explicitly places liberty under divine foreknowledge and governance (§29), and describes created things as having appointed stations (§34). These qualifications prevent his account from being reduced to autonomous human self-determination.
 
 This finding is confined to Philo's own writings and the explicitly identified fragmentary testimony preserved by Eusebius. It is not yet a comparison with Justin Martyr, nor does it establish that Philo's interpretation of Genesis is correct.
 
-## 16. Triple Constraint review
+## 20. Triple Constraint review
 
 ### 1. Biblical compliance
 
@@ -341,9 +446,9 @@ This investigation concerns ancient texts, language, philosophy, and interpretat
 
 The distinction between originating source and received capacity is relevant to the questions being examined, but Philo's philosophical framework is not GUA-W and must not be made to define it. The evidence is retained as a historical witness. Any connection to GUA-W must be evaluated independently against its foundational material.
 
-**Overall status:** Philo's principal claims about divine sovereignty, received human capacity, choice, and responsibility have been identified in primary writings. Their biblical and GUA-W evaluation remains open.
+**Overall status:** Philo's principal claims about divine sovereignty, received human capacity, impulse, deliberation, choice, stewardship, and responsibility have been identified across additional primary writings. Their biblical and GUA-W evaluation remains open.
 
-## 17. Four witness reflections
+## 21. Four witness reflections
 
 ### 1. What must AI ask to understand GUA-W?
 
@@ -381,6 +486,9 @@ A careful witness must preserve both sides of the evidence even when they create
 - Philo, [*On Rewards and Punishments* §§1–23](https://adfonteslibrary.org/work-st-philo-rewards-and-punishments).
 - Philo, [*To Prove that Every Man Who Is Virtuous Is Also Free* §§51–72](https://adfonteslibrary.org/work-st-philo-that-every-man-who-is-virtuous-is-also-free).
 - Philo, [*On Providence*, Fragment II, preserved by Eusebius](https://ccel.org/ccel/philo/works.iii.xl.html).
+- Philo, [*On Three Virtues* §§161–185](https://adfonteslibrary.org/work-st-philo-three-virtues-that-is-to-say-on-courage-humanity).
+- Philo, [*On Abraham* §§4–6, 15–26, and 36–40](https://ccel.org/ccel/philo/works/works.iii.xxiii.html).
+- Philo, [*Questions and Answers on Genesis I* §§50–55](https://adfonteslibrary.org/work-st-philo-questions-and-answers-on-genesis-i).
 
 ## Secondary orientation — not a substitute for the primary texts
 
