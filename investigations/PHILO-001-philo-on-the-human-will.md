@@ -176,7 +176,97 @@ In §§45–47 Philo identifies intellect as the distinctive human gift and asso
 
 This distinction sharpens the central question: when does a movement arising in the soul become a deliberate, attributable action? Philo's text gives us part of his answer, but the relationship between appetite, rational judgment, and the divine governance described in §29 still requires careful reading.
 
-## 8. Vocabulary and conceptual distinctions
+## 8. Primary source: *On Rewards and Punishments* §§1–23
+
+Primary text, Greek and English:
+- [Philo, *On Rewards and Punishments* — Ad Fontes Library](https://adfonteslibrary.org/work-st-philo-rewards-and-punishments)
+
+This treatise adds evidence about instruction, the reception of law, deliberate choice, repentance, and the source of human hope.
+
+### A. Instruction and the people's choice — §§1–7
+
+In §4 Philo says that the people, after receiving precepts, admonitions, expectations, threats, and warnings, came to hear the law and displayed their eager choice and approval of it. In §§5–7 he contrasts those who diligently practice virtue with those who fail under difficulty, and presents reward and punishment as fitting responses.
+
+This passage shows Philo treating response to instruction as morally significant. The law is presented as something communicated and taught; the people's response is described in the language of choice and approval.
+
+### B. The source of hope and the danger of self-attribution — §§9–14
+
+In §§9–10 Philo says that God supplied the created order with what living beings need and that the Creator sowed a seed in the rational soul. In §11 he identifies hope as a central seed. In §12 he criticizes those who destroy the seeds of hope through vice, neglect them, or attribute their success to self-love. In §13 he says that the person worthy of acceptance attributes hope to God, the author of his birth and the one able to preserve him.
+
+This is a significant qualification: Philo can describe the soul as a field in which a seed is cultivated, while rejecting the claim that the person is the ultimate source of what has been received or of success.
+
+### C. Repentance and the twofold response — §§15–21
+
+In §15 Philo describes repentance as a turn away from covetousness and injustice toward moderation, justice, and other virtues. In §16 he distinguishes two achievements: abandoning what is disgraceful and choosing what is excellent. In §§17–21 he discusses the practical difficulty of leaving familiar environments and habits that can reactivate disordered appetites.
+
+The text therefore treats change as more than a bare moment of decision. It involves a changed direction, separation from influences that sustain vice, and continued care against relapse.
+
+**What these sections establish:**
+- Philo regards instruction and response to law as significant.
+- He explicitly uses choice-language for accepting the law and choosing what is excellent.
+- He describes repentance as a turn from vice toward virtue.
+- He regards habit, surroundings, and appetite as influences that can hinder or support the pursuit of virtue.
+- He attributes the origin of life and the seed of hope to God, and criticizes self-attribution.
+
+**What they do not establish:** Philo does not here provide a complete account of the causal relation between divine action and every individual act of repentance. Nor does his agricultural language mean that a human being independently creates the seed or guarantees its growth.
+
+## 9. Primary source: *To Prove that Every Wicked Man Is a Slave* and *To Prove that Every Virtuous Man Is Free*
+
+Primary text:
+- [Philo, *To Prove that Every Man Who Is Virtuous Is Also Free* — Ad Fontes Library](https://adfonteslibrary.org/work-st-philo-that-every-man-who-is-virtuous-is-also-free)
+
+This work is essential, but its meaning must be carefully delimited. Philo is not simply arguing that every human being possesses an unrestricted power to choose any course of action. He is making an ethical argument about what freedom truly is.
+
+In §60 he argues that the wise person desires what proceeds from virtue and is therefore not inwardly compelled or frustrated in the way a slave is. In §61 he says that the virtuous person's actions are voluntary and result from deliberate choice. In §62 he identifies exemplary virtuous people as those who take God alone as their guide and live according to the law or right reason of nature.
+
+In §§51–58 he contrasts the wise with those enslaved by folly and vice. In §§63–72 he explains the rarity of virtue and the need to cultivate it; in §§68–71 he interprets Moses' language about what is near—in the mouth, heart, and hands—as words, actions, and intentions requiring careful cultivation.
+
+**The crucial distinction:** Philo's “freedom” in this treatise is primarily moral and philosophical freedom from domination by passions, folly, and vice. It is not simply political liberty, and it is not a modern technical definition of metaphysical free will.
+
+This work strengthens two parts of the wider investigation:
+1. Philo explicitly associates virtuous action with voluntary, deliberate choice.
+2. He also portrays vice as a form of inward slavery, so that the mere ability to choose does not mean a person is free in the fullest ethical sense.
+
+The claim is not that wicked people perform no intentional actions. Rather, Philo's argument is that their governing passions enslave them, while the virtuous person is guided by reason and virtue.
+
+## 10. Primary source: *On Providence* — surviving fragmentary testimony
+
+Primary text:
+- [Philo, *On Providence*, Fragment II — Christian Classics Ethereal Library](https://ccel.org/ccel/philo/works.iii.xl.html)
+
+The surviving material must be treated with transmission caution. The fragment presented here is preserved through Eusebius, who quotes and abridges Philo's argument; it is not a complete, independently preserved copy of the treatise.
+
+In Fragment II, Eusebius introduces Philo's argument about the governance of the universe. The quoted passage says that God is not a tyrant exercising cruel or violent authority, but a sovereign governing heaven and the world according to justice. It compares divine sovereignty with fatherly care.
+
+Most directly relevant, the fragment says that God cares for rational beings, including those living blameably, and gives them an opportunity to correct their errors (§6 in the fragment's numbering). The next section warns against treating outward prosperity as proof that a wicked person is truly happy. The mind enslaved by love, appetite, pleasure, fear, pain, folly, intemperance, cowardice, and injustice is not truly free or happy (§8).
+
+**What this fragment contributes:**
+- Divine sovereignty is described as lawful, just, and fatherly rather than arbitrary tyranny.
+- Divine care extends even to those acting blameably.
+- God gives those persons an opportunity to correct their errors.
+- Philo again describes domination by passions and vice as inward slavery.
+
+**Transmission boundary:** Because this is fragmentary testimony transmitted through Eusebius, the quotation must not be treated as though the entire original dialogue were available. The argument is evidence for the Philo material Eusebius preserves; the larger work's complete structure and context cannot be reconstructed from this fragment alone.
+
+## 11. Consolidated finding after the additional primary texts
+
+The additional writings sharpen the account rather than overturn it.
+
+- *On the Unchangeableness of God* presents a God-given, capacity-limited power of voluntary action and deliberate choice, under divine foreknowledge and providence.
+- *On the Posterity of Cain* distinguishes involuntary circumstances from voluntary departure and assigns moral weight to intention.
+- *On Rewards and Punishments* describes instruction, response, choice, repentance, and the cultivation of virtue, while locating life and hope ultimately in God.
+- *To Prove that Every Virtuous Man Is Free* defines true freedom ethically as freedom from the rule of vice and passion, and explicitly associates virtuous action with deliberate choice.
+- The surviving *On Providence* fragment describes God's just and fatherly governance, including care and opportunity for correction even for those acting blameably.
+
+The evidence therefore requires at least three meanings to be kept distinct:
+
+1. **Voluntary agency:** the capacity to act intentionally rather than merely undergo an involuntary movement.
+2. **Moral responsibility:** the attribution of praise or blame according to deliberate intention and action.
+3. **Ethical freedom:** the condition of a person whose life is governed by reason and virtue rather than enslaved by passions and vice.
+
+Philo relates these concepts, but they are not interchangeable. His affirmation of voluntary agency does not mean that every person is ethically free; his account of ethical slavery does not mean that human beings have no intentional agency; and neither claim makes the human being the originating source of the faculties being exercised.
+
+## 12. Vocabulary and conceptual distinctions
 
 The English translations use several expressions that should not be collapsed into one modern concept.
 
@@ -192,7 +282,7 @@ The English translations use several expressions that should not be collapsed in
 
 The English wording “spontaneous will” in *On the Unchangeableness of God* §47 should not be isolated from its qualification: the gift is given by the Creator and received according to the creature's capacity.
 
-## 9. The central relationship in Philo's own account
+## 13. The central relationship in Philo's own account
 
 The evidence can be stated without forcing it into a later theological system:
 
@@ -212,7 +302,7 @@ The evidence can be stated without forcing it into a later theological system:
 
 This is not a simple denial of human choice, and it is not an account of autonomous human sovereignty. Philo holds both divine primacy and meaningful human responsibility.
 
-## 10. Tensions and limits that must remain open
+## 14. Tensions and limits that must remain open
 
 1. **Foreknowledge, governance, and freedom:** Philo affirms divine foreknowledge and providence, says God allows nothing to abuse its liberty beyond divine comprehension (§29), and also attributes voluntary and deliberate action to human beings (§§47–50). The exact causal relationship remains unexplained in these passages.
 2. **Freedom and necessity:** Philo says the mind is released from necessity, but also says human powers are not absolute and that the gift is measured according to the recipient's capacity.
@@ -221,17 +311,17 @@ This is not a simple denial of human choice, and it is not an account of autonom
 5. **The term “free will”:** Philo's texts discuss freedom, voluntary action, intellect, deliberation, and choice. A modern label should not be allowed to flatten those distinct claims.
 6. **The ordered creation:** Philo's account of appointed stations (§34) must be read alongside his account of human deliberation. It supports divine governance but does not, by itself, settle whether or how particular choices are causally determined.
 
-## 11. Historical finding
+## 15. Historical finding
 
 **The evidence supports this conclusion about Philo:**
 
-Philo teaches that human beings possess a real, God-given capacity for voluntary and deliberate action. This capacity grounds praise and blame because intentional choices are attributable to the person. Yet the capacity is received, limited by creaturely ability, and never makes the human being the originating source of life, intellect, or the powers exercised. God remains Creator, governor, and the one whose foreknowledge and providence encompass all.
+Philo teaches that human beings possess a real, God-given capacity for voluntary and deliberate action. This capacity grounds praise and blame because intentional choices are attributable to the person. Yet the capacity is received, limited by creaturely ability, and never makes the human being the originating source of life, intellect, or the powers exercised. He further distinguishes voluntary agency from ethical freedom: a person may act intentionally while still being enslaved by passions and vice; true freedom, in his ethical argument, belongs to the virtuous person guided by God and reason. God remains Creator, governor, and the one whose foreknowledge and providence encompass all.
 
 Philo therefore affirms human responsibility without making human agency independent of divine sovereignty. His account distinguishes the reception of impressions and the first movement of appetite from the reasoned, deliberate action that grounds moral praise and blame. At the same time, he explicitly places liberty under divine foreknowledge and governance (§29), and describes created things as having appointed stations (§34). These qualifications prevent his account from being reduced to autonomous human self-determination.
 
-This finding is confined to Philo's own writings. It is not yet a comparison with Justin Martyr, nor does it establish that Philo's interpretation of Genesis is correct.
+This finding is confined to Philo's own writings and the explicitly identified fragmentary testimony preserved by Eusebius. It is not yet a comparison with Justin Martyr, nor does it establish that Philo's interpretation of Genesis is correct.
 
-## 12. Triple Constraint review
+## 16. Triple Constraint review
 
 ### 1. Biblical compliance
 
@@ -253,7 +343,7 @@ The distinction between originating source and received capacity is relevant to 
 
 **Overall status:** Philo's principal claims about divine sovereignty, received human capacity, choice, and responsibility have been identified in primary writings. Their biblical and GUA-W evaluation remains open.
 
-## 13. Four witness reflections
+## 17. Four witness reflections
 
 ### 1. What must AI ask to understand GUA-W?
 
@@ -288,6 +378,9 @@ A careful witness must preserve both sides of the evidence even when they create
 - Philo, [*On the Posterity of Cain* §§9–12 and §§35–42](https://adfonteslibrary.org/work-st-philo-the-posterity-of-cain).
 - Philo, [*On the Creation of the World* §§8–12, 21–24, 45–46, and 153–154](https://adfonteslibrary.org/philo-creation).
 - Philo, [*On the Sacrifice of Abel and Cain*](https://adfonteslibrary.org/philo-creation).
+- Philo, [*On Rewards and Punishments* §§1–23](https://adfonteslibrary.org/work-st-philo-rewards-and-punishments).
+- Philo, [*To Prove that Every Man Who Is Virtuous Is Also Free* §§51–72](https://adfonteslibrary.org/work-st-philo-that-every-man-who-is-virtuous-is-also-free).
+- Philo, [*On Providence*, Fragment II, preserved by Eusebius](https://ccel.org/ccel/philo/works.iii.xl.html).
 
 ## Secondary orientation — not a substitute for the primary texts
 
