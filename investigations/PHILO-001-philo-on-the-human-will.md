@@ -29,9 +29,9 @@ In §29 Philo says that God penetrates the recesses of the soul and possesses pr
 
 In §§30–34 he describes God as Creator and governor of all things, and treats divine knowledge as exceeding the limitations of human knowledge and time.
 
-**What the text establishes:** Philo does not present human freedom as an independent realm outside God's knowledge. Divine foreknowledge and providence encompass human action.
+**What the text establishes:** Philo does not present human freedom as an independent realm outside God's knowledge or government. Divine foreknowledge and providence encompass human action. The wording is stronger than mere divine awareness: God “allows nothing to abuse its liberty” or to stray beyond divine comprehension.
 
-**What it does not by itself establish:** This passage does not explain in a complete causal sequence how God's foreknowledge relates to each human decision. It should not be made to answer more than Philo says here.
+**What it does not by itself establish:** This passage does not explain in a complete causal sequence how God's foreknowledge and providence relate to each human decision. It does, however, place a clear boundary around any reading of human liberty as uncontrolled or outside God's governance. That qualification must be held together with the voluntary agency described in §§47–50.
 
 ### B. The human intellect and its received freedom — §§45–48
 
@@ -61,6 +61,14 @@ In §50 he connects this account with Deuteronomy's command to choose life. For 
 This is a direct statement that Philo associates human freedom with rational moral discernment and choice.
 
 **Interpretive boundary:** Philo's interpretation of Deuteronomy is evidence of Philo's teaching. It is not, by itself, proof that Genesis 1–2 grants the human being an independent authority to define good and evil. The distinction between discerning a moral distinction and originating its standard must remain open for biblical examination.
+
+### D. The appointed order and divine governance — §§34–44
+
+Before discussing human intellect, Philo describes created orders and their characteristic capacities. He says that God praises what remains in its appointed station and punishes what departs from it (§34). He then distinguishes bodies governed by habit, plants by their natural capacities, animals by sensation and imagination, and human beings by intellect (§§35–46).
+
+This section is not a direct statement that every human choice is predetermined. It does, however, show that Philo places created activity within an ordered world governed by the Creator. Human freedom is not presented as a right to overturn the Creator's order.
+
+The description also clarifies his account of appetite: perception leaves an impression; appetite is the first movement of the soul (§§42–44). That movement is not yet the same thing as the deliberate action for which he assigns praise and blame in §§47–50.
 
 ## 2. Primary source: *On the Posterity of Cain* §§9–12
 
@@ -206,11 +214,12 @@ This is not a simple denial of human choice, and it is not an account of autonom
 
 ## 10. Tensions and limits that must remain open
 
-1. **Foreknowledge and freedom:** Philo affirms both God's complete foreknowledge and human voluntary action. The examined passages do not provide a fully explicit causal explanation of how the two relate.
+1. **Foreknowledge, governance, and freedom:** Philo affirms divine foreknowledge and providence, says God allows nothing to abuse its liberty beyond divine comprehension (§29), and also attributes voluntary and deliberate action to human beings (§§47–50). The exact causal relationship remains unexplained in these passages.
 2. **Freedom and necessity:** Philo says the mind is released from necessity, but also says human powers are not absolute and that the gift is measured according to the recipient's capacity.
 3. **Responsibility and grace:** Human beings are accountable for intentional action, while their faculties and capacities are attributed to God. The relation between divine grace and the person's exercise of choice requires further examination across the corpus.
 4. **Literal text and allegory:** Philo's treatment of Genesis often proceeds allegorically. His interpretation is historically important, but it cannot be substituted for the literal KJV foundation.
 5. **The term “free will”:** Philo's texts discuss freedom, voluntary action, intellect, deliberation, and choice. A modern label should not be allowed to flatten those distinct claims.
+6. **The ordered creation:** Philo's account of appointed stations (§34) must be read alongside his account of human deliberation. It supports divine governance but does not, by itself, settle whether or how particular choices are causally determined.
 
 ## 11. Historical finding
 
@@ -218,7 +227,7 @@ This is not a simple denial of human choice, and it is not an account of autonom
 
 Philo teaches that human beings possess a real, God-given capacity for voluntary and deliberate action. This capacity grounds praise and blame because intentional choices are attributable to the person. Yet the capacity is received, limited by creaturely ability, and never makes the human being the originating source of life, intellect, or the powers exercised. God remains Creator, governor, and the one whose foreknowledge and providence encompass all.
 
-Philo therefore affirms human responsibility without making human agency independent of divine sovereignty. His account also distinguishes the reception of impressions and the first movement of appetite from the reasoned, deliberate action that grounds moral praise and blame.
+Philo therefore affirms human responsibility without making human agency independent of divine sovereignty. His account distinguishes the reception of impressions and the first movement of appetite from the reasoned, deliberate action that grounds moral praise and blame. At the same time, he explicitly places liberty under divine foreknowledge and governance (§29), and describes created things as having appointed stations (§34). These qualifications prevent his account from being reduced to autonomous human self-determination.
 
 This finding is confined to Philo's own writings. It is not yet a comparison with Justin Martyr, nor does it establish that Philo's interpretation of Genesis is correct.
 
